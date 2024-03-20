@@ -19,7 +19,7 @@ setCounter (counterC)
 
   return (
     <>
-      <h1>Quiz 01 -118860626</h1>
+      <h1>Quiz 01 -118860626- Gene</h1>
       <div className='flex-container'>
         <div className='flex-container'>
           <ComponenteA counter={counter}/>
